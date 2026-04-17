@@ -307,3 +307,4 @@ update 200
 [2026-04-17 12:57:14] commit #86 - improve structure
 [2026-04-17 12:57:15] commit #87 - improve structure
 [2026-04-17 12:57:16] commit #88 - improve structure
+[2026-04-17 12:57:17] commit #89 - cleanup
